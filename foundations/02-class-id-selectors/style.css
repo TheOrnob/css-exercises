@@ -1,9 +1,9 @@
-p {
+.odd {
     background-color: #ffc0cb;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-p.extra {
+.fix-font-size {
     font-size: 24px
 }
 
@@ -14,6 +14,5 @@ p.extra {
 
 #num4 {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
 }
